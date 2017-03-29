@@ -1,8 +1,8 @@
 +++
 description = "An early look at AL East X-Factors."
-title = "AL East Season Preview"
-categories = ["y"]
-tags = ["MLB", "Sport"]
+title = "AL East 2017 Season Preview"
+categories = ["Forecast"]
+tags = ["MLB", "Sport", "Sabremetrics"]
 date = "2017-03-29T02:04:13-04:00"
 author = "Jack Parker"
 
