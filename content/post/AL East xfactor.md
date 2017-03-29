@@ -67,7 +67,7 @@ Season | HR/FB| FIP | wFB | FB vel
 Price saw a major increase in his HR allowed per 9 innings last season, which resulted in a significantly higher FIP. The question remains whether the majority of the jump in HRs was due to random variance, or if the move to Fenway Park has made the lefty more suseptible to long balls. Of even more concern is questions about Price's fastball. Fangraphs' pitch values shows a negative wFB (value from all fastball thrown by a pitcher) last year for what has been Price's most impressive pitch throughout his career. This decline combined with a drop in fastball velocity creates an interesting discussion about Price's value going forward, which has been further accenuated by the injury this spring. Price's health and production are critical to Boston's World Series hopes this season and for the next 6 years of his $217M contract. 
 
 
-![Blake Snell Headshot](/static/blackSnellHeadshot.png)
+![Blake Snell Headshot](/static/blakeSnellHeadshot.jpg)
 
 **Tampa Bay Rays: Blake Snell SP**
 
@@ -87,7 +87,7 @@ While Snell was lucky on limiting HR, he was unlucky on batted balls. A BABIP of
 
 
 
-![Gary Sanchez Headshot](/static/garySanchezHeadshot.png)
+![Gary Sanchez Headshot](/static/garySanchezHeadshot.jpg)
 
 **New York Yankees: Gary Sanchez C**
 
