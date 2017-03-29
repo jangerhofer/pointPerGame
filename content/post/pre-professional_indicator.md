@@ -5,6 +5,7 @@ tags = ["Sports", "Hockey", "NHL"]
 description = "A look at production before and after the ELC."
 title = "Does pre-professional success predict success in the show?"
 author = "JD Angerhofer"
+draft = true
 +++
 
 
