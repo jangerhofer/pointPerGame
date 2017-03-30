@@ -25,7 +25,7 @@ Season | GP | wRC+ | WAR
 
 
 
-Travis has had two very productive seasons most notably due to an above average bat at 2B. Even with some regression from his lofty BABIP (0.354 career average) Travis will contribute on offense with a high average and moderate power. His bat along with solid defense and base running result in ZiPS projections of 2.5 WAR in 114 games. If Travis can stay healthy for an entire season (A HUGE *if* considering he's just no coming back from injury as the season starts), a 4 win year is not out of the question. His everyday production at 2B is crucial to Jays' success, and to keeping Darwin Barney on the bench and replacement level Ryan Goins in AAA Buffalo.
+Travis has had two very productive seasons most notably due to an above average bat at 2B. Even with some regression from his lofty BABIP (0.354 career average) Travis will contribute on offense with a high average and moderate power. His bat along with solid defense and base running result in ZiPS projections of 2.5 WAR in 114 games. If Travis can stay healthy for an entire season (A HUGE *if* considering he's just now coming back from injury as the season starts), a 4 win year is not out of the question. His everyday production at 2B is crucial to Jays' success, and to keeping Darwin Barney on the bench and replacement level Ryan Goins in AAA Buffalo.
 
 ____
 
