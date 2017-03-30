@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://jangerhofer.github.io/pointPerGame/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Mar 2017 02:04:13 -0400</lastBuildDate>
+    
+	<atom:link href="https://jangerhofer.github.io/pointPerGame/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mlb</title>
+      <link>https://jangerhofer.github.io/pointPerGame/tags/mlb/</link>
+      <pubDate>Wed, 29 Mar 2017 02:04:13 -0400</pubDate>
+      
+      <guid>https://jangerhofer.github.io/pointPerGame/tags/mlb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabremetrics</title>
+      <link>https://jangerhofer.github.io/pointPerGame/tags/sabremetrics/</link>
+      <pubDate>Wed, 29 Mar 2017 02:04:13 -0400</pubDate>
+      
+      <guid>https://jangerhofer.github.io/pointPerGame/tags/sabremetrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sport</title>
+      <link>https://jangerhofer.github.io/pointPerGame/tags/sport/</link>
+      <pubDate>Wed, 29 Mar 2017 02:04:13 -0400</pubDate>
+      
+      <guid>https://jangerhofer.github.io/pointPerGame/tags/sport/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
