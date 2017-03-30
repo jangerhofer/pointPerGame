@@ -14,7 +14,7 @@ ____
 ![Devon Travis Headshot](/static/devonTravisHeadshot.png)
 **Toronto Blue Jays: Devon Travis 2B**
 
-Devon Travis holds the keys to the Blue Jays' hopes for a third consecutive ALCS appearance. Travis has had an excellent start to his MLB career, but has seen his first two MLB seasons shortened by a mixed bag of injuries leading to playing 62 and 101 games in 2015 and 2016 respectively. A healthy season from Travis could buoy the Jays and keep them afloat after the loss of Edwin Encarnacion.
+Devon Travis may hold the keys to the Blue Jays' hopes for a third consecutive ALCS appearance. Travis has had an excellent start to his MLB career, but has seen his first two MLB seasons shortened by a mixed bag of injuries leading to playing 62 and 101 games in 2015 and 2016 respectively. A healthy season from Travis could buoy the Jays and keep them afloat after the loss of Edwin Encarnacion.
 
 
 
@@ -25,7 +25,7 @@ Season | GP | wRC+ | WAR
 
 
 
-Travis has had two very productive seasons most notably due to an above average bat at 2B. Even with some regression from his lofty BABIP (0.354 career average) Travis will contribute on offense with a high average and moderate power. His bat along with solid defense and base running result in ZiPS projections of 2.5 WAR in 114 games. If Travis can stay healthy for an entire season (A HUGE if considering he's just coming back from injury to start the season), a 4 win year is not out of the question. His everyday production at 2B is crucial to Jays' success, and to keeping Darwin Barney on the bench and replacement level Ryan Goins in AAA Buffalo.
+Travis has had two very productive seasons most notably due to an above average bat at 2B. Even with some regression from his lofty BABIP (0.354 career average) Travis will contribute on offense with a high average and moderate power. His bat along with solid defense and base running result in ZiPS projections of 2.5 WAR in 114 games. If Travis can stay healthy for an entire season (A HUGE *if* considering he's just no coming back from injury as the season starts), a 4 win year is not out of the question. His everyday production at 2B is crucial to Jays' success, and to keeping Darwin Barney on the bench and replacement level Ryan Goins in AAA Buffalo.
 
 ____
 
@@ -63,7 +63,7 @@ Season | HR/FB| FIP | wFB | FB vel
 
 
 
-Price saw a major increase in his HR allowed per 9 innings last season, which resulted in a significantly higher FIP. The question remains whether the majority of the jump in HRs was due to random variance, or if the move to Fenway Park has made the lefty more susceptible to long balls. Of even more concern is questions about Price's fastball. Fangraphs' pitch values shows a negative wFB (value from all fastball thrown by a pitcher) last year for what has been Price's most impressive pitch throughout his career. This decline combined with a drop in fastball velocity creates an interesting discussion about Price's value going forward, which has been further accentuated by the injury this spring. Price's health and production are critical to Boston's World Series hopes this season and for the next 6 years of his $217M contract.
+Price saw a major increase in his HR allowed per 9 innings last season, which resulted in a significantly higher FIP. The question remains whether the majority of the jump in HRs was due to random variance, or if the move to Fenway Park has made the lefty more susceptible to long balls. Of even more concern is questions about Price's fastball. Fangraphs' pitch values show a negative wFB (value from all fastballs thrown by a pitcher) last year for what has been Price's most valuable pitch throughout his career. This decline combined with a drop in fastball velocity creates an interesting discussion about Price's value going forward, which has been further accentuated by the injury this spring. Price's health and production are critical to Boston's World Series hopes this season and for the next 6 years of his $217M contract.
 
 ____
 
@@ -71,7 +71,7 @@ ____
 
 **Tampa Bay Rays: Blake Snell SP**
 
-The Rays find themselves in the middle of the pack in terms of team wide projections, but come up last in the competitive AL East. Starting pitcher Blake Snell will need to build off a very promising rookie year if the Rays expect to be in the hunt in September. After striking out 12.86 batters per nine innings in AAA, Snell was called up and posted a 3.39 FIP in 19 starts (89 innings) last year. A K/9 of 9.91 shined, while a BB/9 of 5.16 highlighted the usual command issues for a young pitcher. If Snell can continue to develop his fastball command, he has the secondary pitches to be a top of the rotation starter alongside Chris Archer.
+The Rays find themselves in the middle of the pack in terms of team wide projections, but are projected for the least WAR in the competitive AL East. Starting pitcher Blake Snell will need to build off a very promising rookie year if the Rays expect to be in the hunt in September. After striking out 12.86 batters per nine innings in AAA, Snell was called up and posted a 3.39 FIP in 19 starts (89 innings) last year. A K/9 of 9.91 shined, while a BB/9 of 5.16 highlighted the usual command issues for a young pitcher. If Snell can continue to develop his fastball command, he has the secondary pitches to be a top of the rotation starter alongside Chris Archer.
 
 
 <u>Reason for Concern:</u>
@@ -98,4 +98,4 @@ Season | BABIP | HR/FB | Soft% | Med% | Hard%
 2016 | 0.317 | 40.0% | 18.5% | 39.7% | 41.8%
 
 
-Sanchez's batted ball profile puts him among the league leaders in hard contact percent. Whether or not Sanchez's true talent lies at this level is what will determine his fate going forward. What is almost certain to regress is his *insane* 40.0% HR/FB rate. 40% of fly balls hit by Sanchez were home runs, let that sink in. These rates allowed Sanchez to post some ridiculous stats including a 0.358 ISO and a 0.425 wOBA. Sanchez won't be the best hitter in baseball this year, but he should have a good shot at being the top bat at the catcher position. Much of the small, but growing, hype about the Yankees young core starts with Sanchez, and a strong follow up to his explosive rookie year could put the Yanks rebuild ahead of schedule.
+Sanchez's batted ball profile puts him among the league leaders in hard contact percent. Whether or not Sanchez's true talent lies at this level is what will determine his fate going forward. What is almost certain to regress is his *insane* 40.0% HR/FB rate. 40% of fly balls hit by Sanchez were home runs, let that sink in. These batted ball rates allowed Sanchez to post some ridiculous stats including a 0.358 ISO and a 0.425 wOBA. Sanchez won't be the best hitter in baseball this year, but he should have a good shot at being the top bat at the catcher position. Much of the small, but growing, hype about the Yankees young core starts with Sanchez, and a strong follow up to his explosive rookie year could put the Yanks rebuild ahead of schedule.
